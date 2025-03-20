@@ -1,6 +1,6 @@
 # 👋 Hello World!
 
-✨ Oi! Eu sou a Rebecca de Medeiros, uma apaixonada por pessoas e tecnologia!  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBiaWFpNHRkOGRyemU1c3N0eXlvOWtjcDY5bXcxbzFlZGQzdzAwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZwFfOcA638P3my0DDq/giphy.gif" width="100" alt="Cupcake hello">
+✨ Oi! Eu sou a Rebecca de Medeiros, uma apaixonada por pessoas e tecnologia!  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBiaWFpNHRkOGRyemU1c3N0eXlvOWtjcDY5bXcxbzFlZGQzdzAwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZwFfOcA638P3my0DDq/giphy.gif" width="50" alt="Cupcake hello">
 
 
 ## 🚀 Sobre mim
