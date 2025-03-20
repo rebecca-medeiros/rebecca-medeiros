@@ -1,6 +1,7 @@
 # 👋 Hello World!
 
-✨ Oi! Eu sou a Rebecca de Medeiros, uma apaixonada por pessoas e tecnologia!
+✨ Oi! Eu sou a Rebecca de Medeiros, uma apaixonada por pessoas e tecnologia!  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBiaWFpNHRkOGRyemU1c3N0eXlvOWtjcDY5bXcxbzFlZGQzdzAwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZwFfOcA638P3my0DDq/giphy.gif" width="100" alt="Cupcake hello">
+
 
 ## 🚀 Sobre mim
 💻 Atualmente, sou **desenvolvedora júnior na Suzano**, atuando tanto no back-end quanto no front-end. Além disso, dentro do projeto em que atuo, também colaboro como **Advocate**, contribuindo para a gestão do conhecimento e a melhoria de processos.
@@ -10,6 +11,7 @@
 📊 Por possuir alguns anos de experiência em **gestão e marketing**, trago para a tecnologia uma visão estratégica e orientada a pessoas. Acredito que essa combinação me torna uma desenvolvedora com um olhar diferenciado para problemas, sempre buscando soluções eficientes e alinhadas ao negócio.
 
 🤝 Para mim, **unir pessoas e tecnologia** é essencial para criar soluções inovadoras e eficientes.
+
 
 ## 🛠️ Tecnologias e Ferramentas (que conheço e estou estudando)
 - 📌 **Linguagens**: Python, JavaScript
