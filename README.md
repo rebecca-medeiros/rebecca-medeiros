@@ -13,13 +13,13 @@
 🤝 Para mim, **unir pessoas e tecnologia** é essencial para criar soluções inovadoras e eficientes.
 
 
-## 🛠️ Tecnologias e Ferramentas (que conheço e estou estudando)
+## 🛠️ Tecnologias e Ferramentas (que conheço e/ou estou estudando <img src="https://media.tenor.com/Rc1GWDr71WIAAAAM/psyduck.gif" width="40" alt="Cupcake hello"> )
 - 📌 **Linguagens**: Python, JavaScript
 - ⚡ **Desenvolvimento Web**: HTML, CSS, React
 - 🔍 **Back-end**: Node.js, APIs
 - 📊 **Análise de Dados**: Pandas, SQL
 
-## 💡 Interesses
+## 💡 Interesses 
 - Desenvolvimento Web
 - Back-end e APIs
 - Gestão do Conhecimento
