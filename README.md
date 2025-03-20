@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Rebecca de Medeiros!
+# 👋 Hello World!
 
 ✨ Oi! Eu sou a Rebecca de Medeiros, uma apaixonada por pessoas e tecnologia!
 
