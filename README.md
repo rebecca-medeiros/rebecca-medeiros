@@ -20,7 +20,8 @@
 ## 💡 Interesses
 - Desenvolvimento Web
 - Back-end e APIs
-- Gestão do Conhecimento e Advocate
+- Gestão do Conhecimento
+- Developer Advocacy
 - Dados, BI e Inteligência Artificial
 
 ## 📫 Conecte-se comigo
