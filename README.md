@@ -14,7 +14,7 @@
 
 ## 🧩 Conectando Marketing e Tecnologia
 
-Na Suzano, durante meu estágio, também assumi o papel de **Developer Advocate Interno** dentro do time de desenvolvimento. Essa função me permite unir minha bagagem em **marketing** com a vivência na **tecnologia** para:
+Na Suzano, durante meu estágio, também assumi o papel de **Developer Advocate Interno** dentro do time de desenvolvimento. Essa função me permitiu unir minha bagagem em **marketing** com a vivência na **tecnologia** para:
 
 - Promover uma **comunicação mais clara e eficiente** entre devs;
 - Incentivar o **compartilhamento de conhecimento** e boas práticas;
