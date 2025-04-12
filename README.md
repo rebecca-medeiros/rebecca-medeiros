@@ -12,12 +12,26 @@
 
 🤝 Para mim, **unir pessoas e tecnologia** é essencial para criar soluções inovadoras e eficientes.
 
+## 🧩 Conectando Marketing e Tecnologia
+
+Na Suzano, durante meu estágio, também assumi o papel de **Developer Advocate Interno** dentro do time de desenvolvimento. Essa função me permite unir minha bagagem em **marketing** com a vivência na **tecnologia** para:
+
+- Promover uma **comunicação mais clara e eficiente** entre devs;
+- Incentivar o **compartilhamento de conhecimento** e boas práticas;
+- Criar conteúdos técnicos acessíveis para o time (como **guias**, **documentações** e **materiais de apoio**);
+- Fomentar uma **cultura colaborativa**, onde a troca de aprendizados é valorizada.
+
+Acredito que **tecnologia é sobre pessoas** — e é exatamente nesse cruzamento entre **estratégia**, **comunicação** e **desenvolvimento** que eu mais gosto de atuar.
 
 ## 🛠️ Tecnologias e Ferramentas (que conheço e/ou estou estudando <img src="https://media.tenor.com/Rc1GWDr71WIAAAAM/psyduck.gif" width="40" alt="Cupcake hello"> )
-- 📌 **Linguagens**: Python, JavaScript
-- ⚡ **Desenvolvimento Web**: HTML, CSS, React
-- 🔍 **Back-end**: Node.js, APIs
-- 📊 **Análise de Dados**: Pandas, SQL
+- 📌 **Linguagens**: Python, JavaScript, TypeScript
+- ⚡ **Desenvolvimento Web (Front-end)**: HTML, CSS, React, Tailwind CSS v4, Next.js
+- 🔧 **Desenvolvimento Web (Back-end)**: Node.js, Fastify, Express, REST APIs
+- 🐘 **Bancos de Dados e ORMs**: PostgreSQL, BigQuery, Drizzle ORM
+- 📦 **Infraestrutura e DevOps**: Docker, Cloud Functions (GCP)
+- 📊 **Análise e Manipulação de Dados**: Pandas, SQL
+- 🧠 **Inteligência Artificial**: Vercel AI SDK
+- 🧪 **Qualidade de Código e Padronização**: Biome
 
 ## 💡 Interesses 
 - Desenvolvimento Web
