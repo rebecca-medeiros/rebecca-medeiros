@@ -10,7 +10,7 @@
 
 Embora meu foco seja backend, tenho experiência fullstack e gosto de ter visão de ponta a ponta — então, se precisar “atender a bronca”, eu atendo 😌
 
-Antes disso, atuei por quase 3 anos na **Suzano**, onde comecei minha jornada em tecnologia e trabalhei com desenvolvimento fullstack. Também contribui como **Developer Advocate Interno**, promovendo gestão do conhecimento e melhoria contínua dentro do time.
+Antes disso, atuei por quase 3 anos na **Suzano**, onde comecei minha jornada em tecnologia e trabalhei com desenvolvimento backend. Também contribui como **Developer Advocate Interno**, promovendo gestão do conhecimento e melhoria contínua dentro do time.
 
 ---
 
